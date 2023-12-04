@@ -1,0 +1,7 @@
+.vscode/
+.ipynb_checkpoints/
+nlp_env/
+__pycache__/
+test_copus/
+*.txt
+en.tar
